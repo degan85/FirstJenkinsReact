@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        degan home!!
+        degan home ee!!
         </a>
       </header>
     </div>
